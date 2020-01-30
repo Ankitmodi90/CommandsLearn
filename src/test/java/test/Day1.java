@@ -12,6 +12,9 @@ public class Day1 {
 		System.out.println("This is the setup for the code for Day1");
 		System.out.println("This is the setup for the code for Day11");
 		System.out.println("This is the setup for the code for Day12");
+		System.out.println("This is the setup for the code for Day13");
+		System.out.println("This is the setup for the code for Day14");
+		System.out.println("This is the setup for the code for Day15");
 	}
 	
 	@Test
