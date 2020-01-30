@@ -10,6 +10,8 @@ public class Day1 {
 	public void setup()
 	{
 		System.out.println("This is the setup for the code for Day1");
+		System.out.println("This is the setup for the code for Day11");
+		System.out.println("This is the setup for the code for Day12");
 	}
 	
 	@Test
